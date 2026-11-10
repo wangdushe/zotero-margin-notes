@@ -1,3 +1,3 @@
 # zotero-margin-notes
 Zotero PDF 连线批注插件：在段落旁直接显示文字备注，用同色虚线连接原文，随页面滚动与缩放
-![Uploading 连线批注-模拟预览.png…]()
+![连线批注预览](./连线批注-模拟预览.png)
